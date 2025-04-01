@@ -1,1 +1,1 @@
-This is an updayed readme
+This is an updated readme
