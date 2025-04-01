@@ -9,5 +9,5 @@ jobs:
   build:
     runs-on: test-runner
     steps:
-    - name: test ci
+    - name: test-ci
       run: echo "Hello World"
